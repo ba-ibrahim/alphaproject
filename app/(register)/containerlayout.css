@@ -1,0 +1,24 @@
+.ContainerLayout{
+ 
+    width: 30%;
+    border-radius: 20px;
+    height: 70vh;
+    background-color: rgba(0, 98, 227, 1);
+    margin: 3rem;
+    padding: 2rem;
+}
+.topContainerLayout{
+    display: flex;
+    gap: 8px;
+}
+.topContainerLayout p{
+    font-family: "Sora", serif;
+    color: white;
+     
+}
+.ContainerLayout p{
+    color: white;
+    
+}
+
+
