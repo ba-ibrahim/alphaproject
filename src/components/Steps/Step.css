@@ -1,0 +1,43 @@
+
+
+.step {
+    display: flex;
+    justify-content: space-between;
+    /* align-items: center; */
+    height: 10rem;
+    margin-bottom: 1rem;
+}
+
+.info {
+    /* padding-bottom: 0.rem; */
+    width: 40%;
+    height: 90%;
+}
+
+.image {
+    height: 10rem;
+    width: 20rem;
+    background-color: grey;
+    border-radius: 20px;
+}
+
+
+.info a {
+    background-color: #0062E3;
+    padding: 5px 10px;
+    border-radius: 5px;
+    text-decoration: none;
+    color: white;
+}
+
+.info h3 {
+    padding: 0;
+    margin: 0;
+    margin-bottom: 5px;
+}
+
+.info p {
+    margin: 0;
+    margin-bottom: 20px;
+}
+
